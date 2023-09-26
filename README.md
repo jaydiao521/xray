@@ -1,6 +1,4 @@
-
-
-<img src="./xray.png" alt="xray" style="zoom:35%;" />
+<div align=center> <img src="./xray.png" alt="xray" style="zoom:20%;" /> </div>
 
 ##### Installation
 
