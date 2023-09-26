@@ -1,4 +1,4 @@
-<center> Xray+TCP+XTLS+VMESS </center>
+<div align=center> <img src="./logo.png" alt="xray" style="zoom:50%;" /> </div>
 
 ##### Installation
 
