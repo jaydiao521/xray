@@ -35,7 +35,7 @@ apt --no-install-recommends -qy install wget ca-certificates || (apt update && a
 # Red Hat基系统(包括CentOS、fedora)：
 dnf -y install wget ca-certificates || yum -qy install wget ca-certificates
 # 获取最新脚本
-wget -O xray-TLS+Web-setup.sh https://github.com/kirin10000/Xray-script/raw/main/Xray-TLS+Web-setup.sh
+wget -O xray-TLS+Web-setup.sh https://raw.githubusercontent.com/Jas0n0ss/xray/main/Xray-script/Xray-TLS%2BWeb-setup.sh
 # 开始安装
 chmod +x xray-TLS+Web-setup.sh && ./xray-TLS+Web-setup.sh
 ```
