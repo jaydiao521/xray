@@ -1,6 +1,6 @@
 
 
-<img src="./xray.png" alt="xray" style="zoom:50%;" />
+<img src="./xray.png" alt="xray" style="zoom:35%;" />
 
 ##### Installation
 
